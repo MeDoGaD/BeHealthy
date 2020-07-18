@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "984443320716",
+    "firebase_url": "https://behealthy-b9d6f.firebaseio.com",
+    "project_id": "behealthy-b9d6f",
+    "storage_bucket": "behealthy-b9d6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984443320716:android:6cf3f66c7ae5ddad63fea9",
+        "android_client_info": {
+          "package_name": "com.medo.behealthy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984443320716-tk1a92qivjoofp58ho3735udjjl914uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_6nTc48ktDch_jydc2Y_kD7ObdJtz4Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984443320716-tk1a92qivjoofp58ho3735udjjl914uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
